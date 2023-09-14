@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/josharian/splitby.svg)](https://pkg.go.dev/github.com/josharian/splitby)
+
 I find [bufio.SplitFunc](https://pkg.go.dev/bufio#SplitFunc)s difficult to write.
 
 This package provides a common class of bufio.SplitFuncs, those that split on a separator or using a regular expression.
